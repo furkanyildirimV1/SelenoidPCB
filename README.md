@@ -1,5 +1,5 @@
 # SelenoidPCBTR
-Selenoid valf sürücü devresi PCB tasarımı  Selenoid valve circuit PCB design
+Selenoid valf sürücü devresi PCB tasarımı  
 Bu proje 12V bir selenoid valfin Arduino veya görev bilgisayarından alınan sinyalle anahtarlanması için devrenin PCB tasarımıdır.
 Selenoid valf MOSFET low side ile anahtarlama devresi. 
 Sigorta, TVS diyot, kapasitörler ve P kanal MOSFET ile PCB koruma.
