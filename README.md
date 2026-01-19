@@ -7,7 +7,7 @@ Sigorta, TVS diyot, kapasitörler ve P kanal MOSFET ile PCB koruma.
 
 # SelenoidPCBENG
 Selenoid valve circuit PCB design
--This project is a PCB for switching 12V selenoid valve with Arduino or Mission computer
--Selenoid valve MSOFET low side switching circuit
--PCB protection with TVS diode, fuse, capacitors, P channel MOSFET
+ - This project is a PCB for switching 12V selenoid valve with Arduino or Mission computer
+ - Selenoid valve MSOFET low side switching circuit
+ - PCB protection with TVS diode, fuse, capacitors, P channel MOSFET
 **STATUS**: Prototyping stage
